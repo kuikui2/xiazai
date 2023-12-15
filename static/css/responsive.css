@@ -97,6 +97,9 @@
 
 /* 2. Large tablets (less than  992px) */
 @media (max-width: 991.98px) {
+    .top-left{
+        left: 31% !important
+    }
     section#pricing {
         padding-bottom: 0;
     }
